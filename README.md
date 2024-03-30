@@ -1,2 +1,9 @@
-# curso-python-pip
-un blog increible para el curs de la vAUE 
+# game Project
+
+
+Para correr el juego debes seguir las siguientes isntrucciones en la terminal
+
+```sh
+cd game
+python3 main.py
+```
